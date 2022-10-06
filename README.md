@@ -7,8 +7,8 @@ Software Developer
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [https://fantasticella.github.io/](http://fantasticella.github.io/)
 * ✉️  You can contact me at [ebaldoz@wgu.edu](mailto:ebaldoz@wgu.edu)
-* 🧠  I'm learning Java
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects
+* 🧠  I'm currently learning Java
+* 🤝  I'm open to collaborating on interesting projects
 * ⚡  I also like to design
 
 ### Skills
